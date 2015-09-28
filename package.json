@@ -1,0 +1,22 @@
+{
+  "name": "GEtweet_traitement",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "jsonfile": "~2.2.2",
+    "mongodb": "~2.0.43",
+    "underscore": "~1.8.3",
+    "turf-hex-grid": "~2.0.1",
+    "sqlite3": "~3.1.0",
+    "dblite": "~0.7.6",
+    "d3-scale": "~0.1.1",
+    "idris-geojson": "~0.1.1",
+    "turf-intersect": "~1.4.2"
+  }
+}
