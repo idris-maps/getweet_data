@@ -13,10 +13,10 @@
     "mongodb": "~2.0.43",
     "underscore": "~1.8.3",
     "turf-hex-grid": "~2.0.1",
-    "sqlite3": "~3.1.0",
     "dblite": "~0.7.6",
     "d3-scale": "~0.1.1",
     "idris-geojson": "~0.1.1",
-    "turf-intersect": "~1.4.2"
+    "turf-intersect": "~1.4.2",
+    "turf-inside": "~1.1.4"
   }
 }
